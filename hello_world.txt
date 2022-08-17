@@ -1,1 +1,2 @@
 This is just some place holder text for TOP
+This is just text to check commit message edit
